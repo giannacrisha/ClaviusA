@@ -1,0 +1,43 @@
+/* FONTS */
+
+@font-face {
+	font-family: arapeyItalic;
+	src: url(../fonts/arapey/arapeyItalic.ttf);
+}
+
+* {
+	margin: 0;
+	text-decoration-line: none;
+
+}
+
+body {
+	background-color: #1E1E1E;
+	color: white;
+}
+
+nav {
+	text-align: center;
+	padding: 5rem 0 5rem 0;
+}
+
+nav a {
+	color: white;
+	padding: 0 2rem 0 2rem;
+}
+
+#logoDIV {
+	padding-top: 5rem;
+	text-align: center;
+}
+
+#logo {
+	width: 20rem;
+}
+
+#construction {
+	font-family: arapeyItalic;
+	padding-top: 5rem;
+	font-size: 5rem;
+	text-align: center;
+}
